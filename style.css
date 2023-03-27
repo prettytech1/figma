@@ -1,0 +1,158 @@
+.main-body {
+  background-color: lightgray;
+}
+.btn1-div i {
+  color: #fff;
+  position: absolute;
+  margin-left: 165px;
+  margin-top: 10px;
+}
+.btn {
+  background-color: brown;
+  border: none;
+  width: 200px;
+  height: 40px;
+  border-radius: 7px;
+  color: #fff;
+  text-align: start;
+}
+.btn2-div i {
+  color: #fff;
+  position: absolute;
+  margin-left: 375px;
+  margin-top: 10px;
+}
+.btn2 {
+  background-color: blue;
+  border: none;
+  width: 200px;
+  height: 40px;
+  border-radius: 7px;
+  color: #fff;
+  text-align: start;
+  margin-left: 10px;
+}
+.btn3-div i {
+  color: #fff;
+  position: absolute;
+  margin-left: 595px;
+  margin-top: 10px;
+}
+.btn3 {
+  background-color: purple;
+  border: none;
+  width: 200px;
+  height: 40px;
+  border-radius: 7px;
+  color: #fff;
+  text-align: start;
+  margin-left: 13px;
+}
+.btn4-div i {
+  color: #fff;
+  position: absolute;
+  margin-left: 820px;
+  margin-top: 10px;
+}
+.btn4 {
+  background-color: green;
+  border: none;
+  width: 200px;
+  height: 40px;
+  border-radius: 7px;
+  color: #fff;
+  text-align: start;
+  margin-left: 15px;
+}
+.total {
+  display: flex;
+  gap: 15px;
+}
+.users {
+  background-color: #ededed;
+  border: none;
+  width: 400px;
+  height: 60px;
+  border-radius: 7px;
+  color: #fff;
+}
+.users2 {
+  background-color: #ededed;
+  border: none;
+  width: 430px;
+  height: 60px;
+  border-radius: 7px;
+  color: #fff;
+}
+.total-users {
+  margin-left: 10px;
+  font-size: 13px;
+  font-weight: lighter;
+  color: #000;
+}
+.total-number {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.features {
+  display: flex;
+  gap: 20px;
+}
+.features-content {
+  background-color: #ededed;
+  border: none;
+  width: 450px;
+  height: 120px;
+  border-radius: 7px;
+  color: #000;
+}
+.microchip1 {
+  background: brown;
+  width: 30px;
+  height: 28px;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 3px;
+}
+.microchip1 i {
+  margin-top: 6px;
+  margin-left: 6px;
+  color: #fff;
+}
+.features-content2 {
+  background-color: grey;
+  border: none;
+  width: 450px;
+  height: 120px;
+  border-radius: 7px;
+  color: #000;
+  opacity: 0.6;
+}
+.microchip2 {
+  background: purple;
+  width: 30px;
+  height: 28px;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 3px;
+}
+.microchip2 i {
+  margin-top: 6px;
+  margin-left: 6px;
+  color: #fff;
+}
+.features-paragraph {
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.features-span {
+  font-size: 12px;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
